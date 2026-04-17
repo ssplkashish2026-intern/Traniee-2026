@@ -416,3 +416,8 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Ignore Drive setup
+desktop.ini
+
+.dist/desktop.ini
