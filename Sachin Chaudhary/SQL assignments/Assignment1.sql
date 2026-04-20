@@ -138,7 +138,7 @@ DELETE FROM Customers
 WHERE CustomerID = 'S1';
 
 
---20
+--q20
 SELECT ProductName,
 UnitsInStock AS TotalUnits
 FROM Products
